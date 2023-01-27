@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "type": "command",
+            "name": "run",
+            "program": "make",
+            "args": ["run"],
+        },
+        {
+            "type": "command",
+            "name": "edit",
+            "program": "make",
+            "args": ["edit"],
+        },
+    ]
+}
