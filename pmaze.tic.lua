@@ -1,9 +1,9 @@
 --
 -- vim: set shiftwidth=2 tabstop=2 expandtab:
 --
--- title:  nimph
+-- title:  pillarmaze
 -- author: lzap
--- desc:   inspired by funcade
+-- desc:   inspired by a minigame from funcade
 -- script: lua
 --
 

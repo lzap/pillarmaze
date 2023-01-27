@@ -1,6 +1,6 @@
-## Nimph
+## Pillarmaze
 
-Because I could not find a better name.
+"Because I could not find a better name."
 
 A tiny game by lzap.
 
